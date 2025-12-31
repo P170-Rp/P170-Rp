@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing a Diploma in Information Technology,in second year, 4th semester. <br>I know about C, C++, Java, HTML, CSS, and JavaScript<br>
+I'm currently pursuing a Diploma in Information Technology, In second year, 4th semester. <br>I know about C, C++, Java, HTML, CSS, and JavaScript<br>
 
 
 ## 🌐 Socials:
